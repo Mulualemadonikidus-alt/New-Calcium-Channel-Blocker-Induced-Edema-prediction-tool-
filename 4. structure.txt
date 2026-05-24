@@ -1,0 +1,5 @@
+├── CCB-Edema-Predictor/
+│   ├── app.py                 # Handles UI rendering & layout 
+│   ├── predictor.py           # Contains mathematical & statistical weights
+│   ├── requirements.txt       # Dependencies manifest
+│   └── README.md              # Project description and citation data
